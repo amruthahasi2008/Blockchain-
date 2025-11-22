@@ -1,2 +1,2 @@
 # Blockchain-
-A simple blockchain ledger built in Python and Flask.
+A simple blockchain ledger built using Python 
